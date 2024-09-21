@@ -1,4 +1,3 @@
-cd $HOME/Documents/workspace_vscode/poc-performance-concurrency
 #java threads
 cd java/
 echo native threads
